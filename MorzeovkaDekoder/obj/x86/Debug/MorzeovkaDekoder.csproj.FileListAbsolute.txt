@@ -1,0 +1,20 @@
+C:\Users\sdraco\Dropbox\Islandsoft\Rozpracované\CSP seriál\MorzeovkaDekoder\MorzeovkaDekoder\bin\Debug\MorzeovkaDekoder.exe
+C:\Users\sdraco\Dropbox\Islandsoft\Rozpracované\CSP seriál\MorzeovkaDekoder\MorzeovkaDekoder\bin\Debug\MorzeovkaDekoder.pdb
+C:\Users\sdraco\Dropbox\Islandsoft\Rozpracované\CSP seriál\MorzeovkaDekoder\MorzeovkaDekoder\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sdraco\Dropbox\Islandsoft\Rozpracované\CSP seriál\MorzeovkaDekoder\MorzeovkaDekoder\obj\x86\Debug\MorzeovkaDekoder.exe
+C:\Users\sdraco\Dropbox\Islandsoft\Rozpracované\CSP seriál\MorzeovkaDekoder\MorzeovkaDekoder\obj\x86\Debug\MorzeovkaDekoder.pdb
+C:\Users\sdraco\Dropbox\Islandsoft\Rozpracované\CSP seriál\completed\MorzeovkaDekoder\MorzeovkaDekoder\obj\x86\Debug\MorzeovkaDekoder.exe
+C:\Users\sdraco\Dropbox\Islandsoft\Rozpracované\CSP seriál\completed\MorzeovkaDekoder\MorzeovkaDekoder\obj\x86\Debug\MorzeovkaDekoder.pdb
+C:\Users\sdraco\Dropbox\Islandsoft\Rozpracované\CSP seriál\completed\MorzeovkaDekoder\MorzeovkaDekoder\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sdraco\Dropbox\Islandsoft\Rozpracované\CSP seriál\completed\MorzeovkaDekoder\MorzeovkaDekoder\bin\Debug\MorzeovkaDekoder.exe
+C:\Users\sdraco\Dropbox\Islandsoft\Rozpracované\CSP seriál\completed\MorzeovkaDekoder\MorzeovkaDekoder\bin\Debug\MorzeovkaDekoder.pdb
+C:\Users\sdraco\Desktop\MorzeovkaDekoder\MorzeovkaDekoder\MorzeovkaDekoder\obj\x86\Debug\MorzeovkaDekoder.exe
+C:\Users\sdraco\Desktop\MorzeovkaDekoder\MorzeovkaDekoder\MorzeovkaDekoder\obj\x86\Debug\MorzeovkaDekoder.pdb
+C:\Users\Terok\Downloads\MorzeovkaDekoder\MorzeovkaDekoder\MorzeovkaDekoder\obj\x86\Debug\MorzeovkaDekoder.exe
+C:\Users\Terok\Downloads\MorzeovkaDekoder\MorzeovkaDekoder\MorzeovkaDekoder\obj\x86\Debug\MorzeovkaDekoder.pdb
+C:\Users\Terok\Dropbox\Programování\C#\Devbook aplikace\MorzeovkaDekoder\MorzeovkaDekoder\MorzeovkaDekoder\obj\x86\Debug\MorzeovkaDekoder.exe
+C:\Users\Terok\Dropbox\Programování\C#\Devbook aplikace\MorzeovkaDekoder\MorzeovkaDekoder\MorzeovkaDekoder\obj\x86\Debug\MorzeovkaDekoder.pdb
+C:\Users\Terok\Dropbox\Programování\C#\Devbook aplikace\MorzeovkaDekoder\MorzeovkaDekoder\MorzeovkaDekoder\bin\Debug\MorzeovkaDekoder.exe
+C:\Users\Terok\Dropbox\Programování\C#\Devbook aplikace\MorzeovkaDekoder\MorzeovkaDekoder\MorzeovkaDekoder\bin\Debug\MorzeovkaDekoder.pdb
+C:\Users\Terok\Dropbox\Programování\C#\MorzeovkaDekoder\MorzeovkaDekoder\MorzeovkaDekoder\obj\x86\Debug\MorzeovkaDekoder.exe
+C:\Users\Terok\Dropbox\Programování\C#\MorzeovkaDekoder\MorzeovkaDekoder\MorzeovkaDekoder\obj\x86\Debug\MorzeovkaDekoder.pdb
